@@ -1,38 +1,63 @@
-# What is Tableau ?  
+# 📦 Amazon Shipping Analytics Dashboard
 
-Tableau software is one of the fastest growing data visualization tools which is currently being used in the Business intelligence industry.  
-It is the best way to change or transform the raw set of data into an easily understandable format with zero technical skills and coding knowledge.   
+🚀 **A Tableau-powered dashboard for analyzing Amazon’s shipping trends, delivery performance, and regional logistics efficiency.**  
+---
 
-Tableau is basically a data visualization tool which provides pictorial and graphical representations of data.
+## 📊 Project Overview
 
-## What is Tableau used for?  
+This **interactive Tableau dashboard** provides insights into Amazon’s shipping performance by visualizing key metrics like total shipped/unshipped orders, regional trends, and efficiency analysis.  
 
-Usage of Tableau software are listed below:
+### 🔹 Key Features  
+- **Total Orders Analysis**: Tracks shipped and unshipped orders to monitor fulfillment efficiency.  
+- **Regional Shipping Trends**: Displays country-wise order distribution and shipping performance.  
+- **Efficiency & Cost Analysis**: Identifies bottlenecks and helps optimize logistics strategies.  
+- **Customer Satisfaction Metrics**: Evaluates delivery performance across different regions.  
 
-- Tableau software is used to translate queries into visualization.  
-- It is also used for managing metadata.  
-- Tableau software imports data of all sizes and ranges.  
-- For a non-technical user, Tableau is a life saver as it offers the facility to create ‘no-code’ data queries.  
-- Ever since it was introduced, this data visualization tool is used for Business Intelligence industry. Organizations like Amazon, Walmart, Accenture, Lenovo, and so on widely use Tableau.  
+---
 
+## 🛠️ Tools & Technologies  
+- **Tableau** – For data visualization & dashboard creation  
+- **Excel / CSV** – Data preprocessing and analysis  
+- **SQL** – Querying structured data for insights  
 
-# Amazon Shipping Analytics
+---
 
-###  Overview 
+## 📌 Dashboard Insights  
+🔹 **Total Orders Shipped** → Count of all successfully shipped orders  
+🔹 **Total Orders Not Shipped** → Identifies pending/unshipped orders  
+🔹 **Shipped Orders by Country** → Country-wise breakdown of shipped orders  
+🔹 **Unshipped Orders by Country** → Highlights regions with fulfillment delays  
 
-Amazon Shipping is a company which ships a variety of FMCG (Fast Moving Consumer Goods) all over the world.
+---
 
-The Shipping Manager doesn't have much visibility and doesn't know how many orders are processed and shipped on a monthly basis.
-He would like a dashboard of this where he selects a month and can tell how many orders are outstanding a day and where they should be shipped.
+## 📷 Dashboard Screenshots  
+*(Include images or GIFs of your Tableau dashboard here)*  
+![Dashboard Screenshot](![Amazon Shipping Analytics Image](https://github.com/user-attachments/assets/7c66fd71-69ff-445c-b961-af9b6bc7cbfd)
+)
 
-He has given us csv files from which we have to create a Dashboard for his quick review so that he could take further decisions for the benefit of the company.
+---
 
-Thus, we created below interactive dashboard as per his requirement. Now, he could switch and view different shipping stats for different months and years.   
+## 🚀 How to Use  
+1. **Download the Tableau Workbook (`.twb` file)** from this repository.  
+2. Open it in **Tableau Desktop or Tableau Public**.  
+3. Explore different **filters & insights** for interactive analysis.  
+---
 
-##  Amazon Shipping Analytics Dashboard
+## 🏆 Project Insights  
+- **Designed** a **Tableau dashboard** for shipping analytics.  
+- **Developed** visualizations to track total shipped/unshipped orders by country.  
+- **Focused on** identifying shipping inefficiencies and fulfillment delays.  
+- **Optimized** insights for **logistics & customer satisfaction improvement**.  
 
-<img src="https://github.com/Rishab195/Tableau-Projects/blob/master/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
+---
 
+## 📬 Contact & Connect  
+👨‍💻 **Author**: Rishabh Jain  
+🔗 **LinkedIn**: (https://www.linkedin.com/in/rishabhjn195/)
 
+🌐 **Portfolio**: [https://your-portfolio.com](https://rishabjn.netlify.app/)
+📩 **Email**: rishabjn195@example.com  
 
+---
 
+⭐ **If you found this project useful, don't forget to star the repo!** ⭐  
