@@ -32,7 +32,7 @@ This **interactive Tableau dashboard** provides insights into Amazon’s shippin
 
 ## 📷 Dashboard Screenshots  
 *(Include images or GIFs of your Tableau dashboard here)*  
-![Dashboard Screenshot](![Amazon Shipping Analytics Image](https://github.com/user-attachments/assets/7c66fd71-69ff-445c-b961-af9b6bc7cbfd)
+![Dashboard Screenshot](![Amazon Shipping Analytics Image].(https://github.com/Rishab195/Tableau-Project/blob/main/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG)
 )
 
 ---
